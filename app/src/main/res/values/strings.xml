@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bird a Day</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="bird_name">Test Bird</string>
+    <string name="bird_info1">\n\n\n\nOh no!\nAn error occurred!</string>
+</resources>
